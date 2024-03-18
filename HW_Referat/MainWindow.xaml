@@ -1,0 +1,171 @@
+﻿<Window x:Class="HW_Referat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW_Referat"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <FlowDocument>
+        <Paragraph>
+            <Image Source="C:\Users\Education\Desktop\WPF\HW_Referat\HW_Referat\EmpireFall.jpg"/>
+        </Paragraph>
+        <Paragraph TextAlignment="Center" FontSize="18">
+            <Bold>Римская империя</Bold>
+        </Paragraph>
+        <Paragraph FontSize="14">
+            <Bold>Римская импеерия</Bold> (лат. Imperium Romanum) — постреспубликанский период
+            <Span Foreground="Blue">Древнего Рима</Span>. 
+            Как государство Римская империя включала большие территориальные владения вокруг
+            <Span Foreground="Blue">Средиземного моря</Span>
+            в
+            <Span Foreground="Blue">Европе, Северной Африке и Западной Азии</Span>
+            , управляемые императорами. 
+            От восшествия на престол Цезаря Августа в качестве первого римского императора до
+            <Span Foreground="Blue">военной анархии третьего века</Span>
+            Римская империя была
+            <Span Foreground="Blue">принципатом с Италией</Span>
+            в качестве метрополии своих провинций и городом Римом в качестве единственной столицы. Позже империей правили
+            несколько императоров, которые разделяли контроль над
+            <Span Foreground="Blue">Западной Римской империей</Span>
+            и
+            <Span Foreground="Blue">Восточной Римской империей</Span>
+            . Рим оставался номинальной столицей обеих частей до 476 года
+            нашей эры, когда имперские знаки отличия были отправлены в
+            <Span Foreground="Blue">Константинополь</Span>
+            после захвата западной столицы
+            <Span Foreground="Blue">Равенны германскими варварами</Span>
+            под предводительством
+            <Span Foreground="Blue">Одоакра</Span>
+            и последующего низложения
+            <Span Foreground="Blue">Ромула Августула</Span>
+            . Принятие христианства в качестве государственной церкви Римской
+            империи в 380 году нашей эры и
+            <Span Foreground="Blue">падение Западной Римской империи</Span>
+            под власть германских королей условно знаменует собой конец классической античности и начало Средневековья. Из-за этих
+            событий, наряду с постепенной эллинизацией Восточной Римской империи, историки выделяют
+            средневековую Римскую империю, оставшуюся в восточных провинциях, как
+            <Span Foreground="Blue">Византийскую империю</Span>.
+        </Paragraph>
+
+        <Paragraph FontSize="14">
+            Государство-предшественник Римской империи,
+            <Span Foreground="Blue">Римская республика</Span>
+            , пришедшая на смену
+            <Span Foreground="Blue">римской монархии</Span>
+            в VI веке до нашей эры, была дестабилизирована в результате
+            <Span Foreground="Blue">ряда гражданских войн и политических конфликтов</Span>
+            . В середине I века до нашей эры
+            <Span Foreground="Blue">Юлий Цезарь</Span>
+            был назначен
+            <Span Foreground="Blue">бессменным диктатором</Span>
+            , а затем убит в 44 году до нашей эры. Гражданские войны и проскрипции продолжались,
+            кульминацией которых в конечном итоге стала победа Октавиана, приемного сына Цезаря, над
+            <Span Foreground="Blue">Марком Антонием</Span>
+            и
+            <Span Foreground="Blue">Клеопатрой</Span>
+            в
+            <Span Foreground="Blue">битве при Акциуме</Span>
+            в 31 году до нашей эры. В следующем году Октавиан завоевал
+            <Span Foreground="Blue">Птолемеевское царство в Египте</Span>
+            , положив конец
+            <Span Foreground="Blue">эллинистическому периоду</Span>
+            , который начался с
+            <Span Foreground="Blue">завоеваний Александра Македонского</Span>
+            в 4 веке до нашей эры. После этого власть
+            Октавиана стала неоспоримой, и в 27 году до нашей эры римский сенат официально предоставил
+            ему всеохватывающую власть и новый титул Августа, фактически сделав его первым римским императором.
+            Огромные римские территории были организованы в сенаторские и имперские провинции, за исключением
+            Италии, которая продолжала служить метрополией.
+        </Paragraph>
+
+        <Paragraph TextAlignment="Center" FontSize="18">
+            Периодизация истории Римской империи
+        </Paragraph>
+        <List MarkerStyle="Decimal">
+            <ListItem>
+                <Paragraph FontSize="14">
+                    <Span Foreground="Blue">Принципат</Span>
+                    — форма государственного устройства, сочетающая республиканские и монархические
+                    черты (где под прикрытием республиканских органов власти на самом деле была военная монархия),
+                    существовала в I веке до н. э. — III веке н. э. Период принципата можно разделить на следующие этапы:
+                </Paragraph>
+                <List MarkerStyle="Disc">
+                    <ListItem>
+                        <Paragraph FontSize="14">
+                            Правление династии
+                            <Span Foreground="Blue">Юлиев-Клавдиев</Span>
+                            и формирование системы принципата (27 до н. э. — 68 н. э.)
+                        </Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph FontSize="14">
+                            <Span Foreground="Blue">Год четырёх императоров</Span>
+                            — масштабный кризис власти (68—69)
+                        </Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph FontSize="14">
+                            Правление династий
+                            <Span Foreground="Blue">Флавиев и Антонинов</Span>
+                            — расцвет системы принципата (69—192)
+                        </Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph FontSize="14">
+                            Правление династии
+                            <Span Foreground="Blue">Северов</Span>
+                            — начало формирования военно-бюрократической системы (193—235)
+                        </Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph FontSize="14">
+                            <Span Foreground="Blue">Кризис III века</Span>
+                            — полномасштабный социально-экономический и политический кризис Римской империи (235—284)
+                        </Paragraph>                        
+                    </ListItem>
+                </List>
+            </ListItem>
+            <ListItem>
+                <Paragraph FontSize="14">
+                    <Span Foreground="Blue">Доминат</Span>
+                    (284—476) — политическая система, более близкая к монархии. Внутри периода можно выделить следующие этапы:
+                </Paragraph>
+                <List MarkerStyle="Disc">
+                    <ListItem>
+                        <Paragraph FontSize="14">
+                           Правление
+                            <Span Foreground="Blue">Диоклетиана и Константина I</Span>
+                            — формирование системы домината, административные, военные и социально-экономические реформы (284—337)
+                        </Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph FontSize="14">
+                            Империя IV века н. э. — достаточно стабильное существование системы, тенденция к политическому размежеванию западной и восточной частей империи (337—395)
+                        </Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph FontSize="14">
+                            Окончательное разделение империи на Восточную и Западную (395—476)
+                        </Paragraph>
+                    </ListItem>
+                </List>
+            </ListItem>            
+        </List>
+        <Section Background="AliceBlue">
+            <Paragraph FontSize="18">
+                <Bold>Языки Римской империи</Bold> 
+            </Paragraph>
+            <Paragraph FontSize="14">
+                Римская империя была многоязычным государством. Функции официальных языков в 
+                империи выполняли латынь и древнегреческий. Использование этих двух важнейших 
+                языков внутри империи было дифференцировано географически и функционально. 
+                В конечном счёте это привело к постепенному обособлению западной и восточной 
+                частей после 395 года. Кроме этого, в империи имелись регионы с преобладания 
+                различных автохтонных языков.
+            </Paragraph>
+        </Section>
+        
+
+    </FlowDocument>
+</Window>
